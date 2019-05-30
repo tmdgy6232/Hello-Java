@@ -13,11 +13,11 @@ public class HelloVar_05 {
 		
 		birthYear = 1989;
 		
-		int a = 90;
-		int b = 90;
-		int c = 90;
-		int d = 90;
-		int e = 90;
+		int a1 = 90;
+		int b1 = 90;
+		int c1 = 90;
+		int d1 = 90;
+		int e1 = 90;
 		
 		
 		int engScore = 90;
